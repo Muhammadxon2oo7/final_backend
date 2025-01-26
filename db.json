@@ -1,0 +1,1396 @@
+{
+  "users": [
+    
+  ],
+  "banners": [
+    {
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/refs/heads/main/banner1.jpg",
+      "id": 800
+    },
+    {
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/refs/heads/main/banner2.webp",
+      "id": 801
+    },
+    {
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/refs/heads/main/banner3.webp",
+      "id": 802
+    }
+  ],
+  "categories": [
+    {
+      "id": 1001,
+      "title": "Yangi mahsulatlar",
+      "children": [
+        {
+          "id": 21,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg"
+          ],
+          "title": "Samsung Galaxy A05",
+          "rame": "4/64 GB",
+          "color": "Black",
+          "colors": [
+            "Black"
+          ],
+          "brand": "Samsung",
+          "price": "1 700 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 4,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Samsung Galaxy A05 - bu zamonaviy texnologiyalarni o'zida mujassam etgan qulay va ishonchli smartfon."
+        },
+        {
+          "id": 22,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg",
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg",
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg",
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg"
+          ],
+          "title": "Xiaomi Redmi Note 11S",
+          "rame": "6/128 GB",
+          "color": "Graphite Gray",
+          "colors": [
+            "Graphite Gray"
+          ],
+          "brand": "Xiaomi",
+          "price": "1 732 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 4,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Xiaomi Redmi Note 11S - yuqori unumdorlikka ega, zamonaviy ko'rinishdagi ajoyib smartfon."
+        },
+        {
+          "id": 23,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone4.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone4.jpg"
+          ],
+          "title": "Redmi Note 13 Pro",
+          "rame": "8/128 GB",
+          "color": "Green",
+          "colors": [
+            "Green"
+          ],
+          "brand": "Redmi",
+          "price": "4 450 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Redmi Note 13 Pro - kuchli texnik xususiyatlarga ega, eng so'nggi texnologiyalarni o'zida jamlagan smartfon."
+        },
+        {
+          "id": 24,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone5.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone5.jpg"
+          ],
+          "title": "Samsung Galaxy S24",
+          "rame": "8/256 GB",
+          "color": "Фиолетовый",
+          "colors": [
+            "Фиолетовый"
+          ],
+          "brand": "Samsung",
+          "price": "10 365 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Samsung Galaxy S24 - premium smartfon, yuqori darajada ishlash va ajoyib ko'rinish uchun yaratilgan."
+        },
+        {
+          "id": 25,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone6.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone6.jpg"
+          ],
+          "title": "Samsung Galaxy S24",
+          "rame": "8/256 GB",
+          "color": "Серый",
+          "colors": [
+            "Серый"
+          ],
+          "brand": "Samsung",
+          "price": "10 357 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 4,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Samsung Galaxy S24 - premium dizayn va yuqori unumdorlikni taklif qiluvchi smartfon."
+        },
+        {
+          "id": 26,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone7.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone7.jpg"
+          ],
+          "title": "Samsung Galaxy S24 Ultra",
+          "rame": "12/512 GB",
+          "color": "Titanium Black",
+          "colors": [
+            "Titanium Black"
+          ],
+          "brand": "Samsung",
+          "price": "16 432 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Samsung Galaxy S24 Ultra - eng yuqori texnik imkoniyatlarga ega flagman smartfon."
+        },
+        {
+          "id": 27,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone8.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone8.jpg"
+          ],
+          "title": "Samsung Galaxy S24 Ultra",
+          "rame": "12/512 GB",
+          "color": "Titanium Black",
+          "colors": [
+            "Titanium Black"
+          ],
+          "brand": "Samsung",
+          "price": "16 632 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Samsung Galaxy S24 Ultra - kuchli ishlash va yuqori darajali kameraga ega bo'lgan flagman smartfon."
+        },
+        {
+          "id": 28,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone9.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone9.jpg"
+          ],
+          "title": "Novey Alpha A10",
+          "rame": "4/64 GB",
+          "color": "Фиолетовый",
+          "colors": [
+            "Фиолетовый"
+          ],
+          "brand": "Novey",
+          "price": "1 479 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 3,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Novey Alpha A10 - qulay va arzon smartfon."
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "title": "Omabob tovarlar",
+      "children": [
+        {
+          "id": 29,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone10.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone10.jpg"
+          ],
+          "title": "Novey Alpha A10",
+          "rame": "4/64 GB",
+          "color": "Белый",
+          "colors": [
+            "Белый"
+          ],
+          "brand": "Novey",
+          "price": "1 479 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 3,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Novey Alpha A10 - qulay va arzon smartfon."
+        },
+        {
+          "id": 30,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone11.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone11.jpg"
+          ],
+          "title": "Novey Alpha A10",
+          "rame": "4/64 GB",
+          "color": "Black",
+          "colors": [
+            "Black"
+          ],
+          "brand": "Novey",
+          "price": "1 200 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 3,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Novey Alpha A10 - qulay va arzon smartfon."
+        },
+        {
+          "id": 31,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone12.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone12.jpg"
+          ],
+          "title": "Samsung Galaxy A25",
+          "rame": "6/128 GB",
+          "color": "Тёмный синий",
+          "colors": [
+            "Тёмный синий"
+          ],
+          "brand": "Samsung",
+          "price": "3 160 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 4,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Samsung Galaxy A25 - o'ziga xos texnik xususiyatlar va qulaylikni birlashtirgan smartfon."
+        },
+        {
+          "id": 32,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone13.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone13.jpg"
+          ],
+          "title": "Samsung Galaxy A25",
+          "rame": "6/128 GB",
+          "color": "Желтый",
+          "colors": [
+            "Желтый"
+          ],
+          "brand": "Samsung",
+          "price": "3 160 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 4,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Samsung Galaxy A25 - o'ziga xos texnik xususiyatlar va qulaylikni birlashtirgan smartfon."
+        },
+        {
+          "id": 33,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone14.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone14.jpg"
+          ],
+          "title": "Samsung Galaxy A25",
+          "rame": "6/128 GB",
+          "color": "Синий",
+          "colors": [
+            "Синий"
+          ],
+          "brand": "Samsung",
+          "price": "3 160 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 4,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Samsung Galaxy A25 - o'ziga xos texnik xususiyatlar va qulaylikni birlashtirgan smartfon."
+        },
+        {
+          "id": 34,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "512 GB",
+          "color": "Pink",
+          "colors": [
+            "Pink"
+          ],
+          "brand": "Apple",
+          "price": "14 940 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori darajadagi texnologiyalarni o'zida mujassam etgan flagman smartfon."
+        },
+        {
+          "id": 35,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "128 GB",
+          "color": "Pink",
+          "colors": [
+            "Pink"
+          ],
+          "brand": "Apple",
+          "price": "15 547 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori darajadagi texnologiyalarni o'zida mujassam etgan flagman smartfon."
+        },
+        {
+          "id": 36,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "256 GB",
+          "color": "Pink",
+          "colors": [
+            "Pink"
+          ],
+          "brand": "Apple",
+          "price": "13 904 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori darajadagi texnologiyalarni o'zida mujassam etgan flagman smartfon."
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "title": "Chegirmadagi mahsulotlar",
+      "children": [
+        {
+          "id": 37,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "512 GB",
+          "color": "Yellow",
+          "colors": [
+            "Yellow"
+          ],
+          "brand": "Apple",
+          "price": "14 940 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+        },
+        {
+          "id": 38,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "256 GB",
+          "color": "Yellow",
+          "colors": [
+            "Yellow"
+          ],
+          "brand": "Apple",
+          "price": "15 547 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+        },
+        {
+          "id": 39,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "128 GB",
+          "color": "Yellow",
+          "colors": [
+            "Yellow"
+          ],
+          "brand": "Apple",
+          "price": "13 904 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+        },
+        {
+          "id": 40,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "512 GB",
+          "color": "Green",
+          "colors": [
+            "Green"
+          ],
+          "brand": "Apple",
+          "price": "14 940 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+        },
+        {
+          "id": 41,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "256 GB",
+          "color": "Green",
+          "colors": [
+            "Green"
+          ],
+          "brand": "Apple",
+          "price": "15 547 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+        },
+        {
+          "id": 42,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "128 GB",
+          "color": "Green",
+          "colors": [
+            "Green"
+          ],
+          "brand": "Apple",
+          "price": "13 904 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+        },
+        {
+          "id": 43,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "512 GB",
+          "color": "Black",
+          "colors": [
+            "Black"
+          ],
+          "brand": "Apple",
+          "price": "14 940 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+        },
+        {
+          "id": 44,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "256 GB",
+          "color": "Black",
+          "colors": [
+            "Black"
+          ],
+          "brand": "Apple",
+          "price": "15 547 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "title": "Tafsiya etiladigan productlar",
+      "children": [
+        {
+          "id": 45,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg"
+          ],
+          "title": "Apple iPhone 15 Plus",
+          "rame": "128 GB",
+          "color": "Black",
+          "colors": [
+            "Black"
+          ],
+          "brand": "Apple",
+          "price": "13 904 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+        },
+        {
+          "id": 46,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+          ],
+          "title": "Apple iPhone 15 Pro Max",
+          "rame": "1 TB",
+          "color": "Natural titanium",
+          "colors": [
+            "Natural titanium"
+          ],
+          "brand": "Apple",
+          "price": "24 611 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+        },
+        {
+          "id": 47,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+          ],
+          "title": "Apple iPhone 15 Pro Max",
+          "rame": "1 TB",
+          "color": "Natural titanium",
+          "colors": [
+            "Natural titanium"
+          ],
+          "brand": "Apple",
+          "price": "22 752 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+        },
+        {
+          "id": 48,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+          ],
+          "title": "Apple iPhone 15 Pro Max",
+          "rame": "512 GB",
+          "color": "Natural titanium",
+          "colors": [
+            "Natural titanium"
+          ],
+          "brand": "Apple",
+          "price": "18 604 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+        },
+        {
+          "id": 49,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+          ],
+          "title": "Apple iPhone 15 Pro Max",
+          "rame": "1 TB",
+          "color": "Black titanium",
+          "colors": [
+            "Black titanium"
+          ],
+          "brand": "Apple",
+          "price": "24 611 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+        },
+        {
+          "id": 50,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+          ],
+          "title": "Apple iPhone 15 Pro Max",
+          "rame": "1 TB",
+          "color": "Black titanium",
+          "colors": [
+            "Black titanium"
+          ],
+          "brand": "Apple",
+          "price": "22 752 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+        },
+        {
+          "id": 51,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+          ],
+          "title": "Apple iPhone 15 Pro Max",
+          "rame": "512 GB",
+          "color": "Black titanium",
+          "colors": [
+            "Black titanium"
+          ],
+          "brand": "Apple",
+          "price": "18 604 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 5,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+        },
+        {
+          "id": 52,
+          "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
+          "gallery": [
+            "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg"
+          ],
+          "title": "Samsung Galaxy A05",
+          "rame": "4/64 GB",
+          "color": "Black",
+          "colors": [
+            "Black"
+          ],
+          "brand": "Samsung",
+          "price": "1 700 000",
+          "oldPrice": "",
+          "discount": 0,
+          "rating": 4,
+          "availability": "Omborda mavjud",
+          "deliveryTime": "14 ish kuni",
+          "description": "Samsung Galaxy A05 - o‘z sinfidagi arzon va ishonchli smartfon modeli."
+        }
+      ]
+    }
+  ],
+  "all": [
+    {
+      "id": 21,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg"
+      ],
+      "title": "Samsung Galaxy A05",
+      "rame": "4/64 GB",
+      "color": "Black",
+      "colors": [
+        "Black"
+      ],
+      "brand": "Samsung",
+      "price": "1 700 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 4,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Samsung Galaxy A05 - bu zamonaviy texnologiyalarni o'zida mujassam etgan qulay va ishonchli smartfon."
+    },
+    {
+      "id": 22,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg"
+      ],
+      "title": "Xiaomi Redmi Note 11S",
+      "rame": "6/128 GB",
+      "color": "Graphite Gray",
+      "colors": [
+        "Graphite Gray"
+      ],
+      "brand": "Xiaomi",
+      "price": "1 732 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 4,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Xiaomi Redmi Note 11S - yuqori unumdorlikka ega, zamonaviy ko'rinishdagi ajoyib smartfon."
+    },
+    {
+      "id": 23,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone4.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone4.jpg"
+      ],
+      "title": "Redmi Note 13 Pro",
+      "rame": "8/128 GB",
+      "color": "Green",
+      "colors": [
+        "Green"
+      ],
+      "brand": "Redmi",
+      "price": "4 450 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Redmi Note 13 Pro - kuchli texnik xususiyatlarga ega, eng so'nggi texnologiyalarni o'zida jamlagan smartfon."
+    },
+    {
+      "id": 24,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone5.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone5.jpg"
+      ],
+      "title": "Samsung Galaxy S24",
+      "rame": "8/256 GB",
+      "color": "Фиолетовый",
+      "colors": [
+        "Фиолетовый"
+      ],
+      "brand": "Samsung",
+      "price": "10 365 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Samsung Galaxy S24 - premium smartfon, yuqori darajada ishlash va ajoyib ko'rinish uchun yaratilgan."
+    },
+    {
+      "id": 25,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone6.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone6.jpg"
+      ],
+      "title": "Samsung Galaxy S24",
+      "rame": "8/256 GB",
+      "color": "Серый",
+      "colors": [
+        "Серый"
+      ],
+      "brand": "Samsung",
+      "price": "10 357 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 4,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Samsung Galaxy S24 - premium dizayn va yuqori unumdorlikni taklif qiluvchi smartfon."
+    },
+    {
+      "id": 26,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone7.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone7.jpg"
+      ],
+      "title": "Samsung Galaxy S24 Ultra",
+      "rame": "12/512 GB",
+      "color": "Titanium Black",
+      "colors": [
+        "Titanium Black"
+      ],
+      "brand": "Samsung",
+      "price": "16 432 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Samsung Galaxy S24 Ultra - eng yuqori texnik imkoniyatlarga ega flagman smartfon."
+    },
+    {
+      "id": 27,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone8.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone8.jpg"
+      ],
+      "title": "Samsung Galaxy S24 Ultra",
+      "rame": "12/512 GB",
+      "color": "Titanium Black",
+      "colors": [
+        "Titanium Black"
+      ],
+      "brand": "Samsung",
+      "price": "16 632 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Samsung Galaxy S24 Ultra - kuchli ishlash va yuqori darajali kameraga ega bo'lgan flagman smartfon."
+    },
+    {
+      "id": 28,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone9.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone9.jpg"
+      ],
+      "title": "Novey Alpha A10",
+      "rame": "4/64 GB",
+      "color": "Фиолетовый",
+      "colors": [
+        "Фиолетовый"
+      ],
+      "brand": "Novey",
+      "price": "1 479 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 3,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Novey Alpha A10 - qulay va arzon smartfon."
+    },
+    {
+      "id": 29,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone10.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone10.jpg"
+      ],
+      "title": "Novey Alpha A10",
+      "rame": "4/64 GB",
+      "color": "Белый",
+      "colors": [
+        "Белый"
+      ],
+      "brand": "Novey",
+      "price": "1 479 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 3,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Novey Alpha A10 - qulay va arzon smartfon."
+    },
+    {
+      "id": 30,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone11.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone11.jpg"
+      ],
+      "title": "Novey Alpha A10",
+      "rame": "4/64 GB",
+      "color": "Black",
+      "colors": [
+        "Black"
+      ],
+      "brand": "Novey",
+      "price": "1 200 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 3,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Novey Alpha A10 - qulay va arzon smartfon."
+    },
+    {
+      "id": 31,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone12.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone12.jpg"
+      ],
+      "title": "Samsung Galaxy A25",
+      "rame": "6/128 GB",
+      "color": "Тёмный синий",
+      "colors": [
+        "Тёмный синий"
+      ],
+      "brand": "Samsung",
+      "price": "3 160 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 4,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Samsung Galaxy A25 - o'ziga xos texnik xususiyatlar va qulaylikni birlashtirgan smartfon."
+    },
+    {
+      "id": 32,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone13.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone13.jpg"
+      ],
+      "title": "Samsung Galaxy A25",
+      "rame": "6/128 GB",
+      "color": "Желтый",
+      "colors": [
+        "Желтый"
+      ],
+      "brand": "Samsung",
+      "price": "3 160 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 4,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Samsung Galaxy A25 - o'ziga xos texnik xususiyatlar va qulaylikni birlashtirgan smartfon."
+    },
+    {
+      "id": 33,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone14.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone14.jpg"
+      ],
+      "title": "Samsung Galaxy A25",
+      "rame": "6/128 GB",
+      "color": "Синий",
+      "colors": [
+        "Синий"
+      ],
+      "brand": "Samsung",
+      "price": "3 160 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 4,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Samsung Galaxy A25 - o'ziga xos texnik xususiyatlar va qulaylikni birlashtirgan smartfon."
+    },
+    {
+      "id": 34,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Pink",
+      "colors": [
+        "Pink"
+      ],
+      "brand": "Apple",
+      "price": "14 940 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori darajadagi texnologiyalarni o'zida mujassam etgan flagman smartfon."
+    },
+    {
+      "id": 35,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Pink",
+      "colors": [
+        "Pink"
+      ],
+      "brand": "Apple",
+      "price": "15 547 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori darajadagi texnologiyalarni o'zida mujassam etgan flagman smartfon."
+    },
+    {
+      "id": 36,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Pink",
+      "colors": [
+        "Pink"
+      ],
+      "brand": "Apple",
+      "price": "13 904 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori darajadagi texnologiyalarni o'zida mujassam etgan flagman smartfon."
+    },
+    {
+      "id": 37,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Yellow",
+      "colors": [
+        "Yellow"
+      ],
+      "brand": "Apple",
+      "price": "14 940 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+    },
+    {
+      "id": 38,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Yellow",
+      "colors": [
+        "Yellow"
+      ],
+      "brand": "Apple",
+      "price": "15 547 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+    },
+    {
+      "id": 39,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Yellow",
+      "colors": [
+        "Yellow"
+      ],
+      "brand": "Apple",
+      "price": "13 904 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+    },
+    {
+      "id": 40,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Green",
+      "colors": [
+        "Green"
+      ],
+      "brand": "Apple",
+      "price": "14 940 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+    },
+    {
+      "id": 41,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Green",
+      "colors": [
+        "Green"
+      ],
+      "brand": "Apple",
+      "price": "15 547 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+    },
+    {
+      "id": 42,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Green",
+      "colors": [
+        "Green"
+      ],
+      "brand": "Apple",
+      "price": "13 904 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+    },
+    {
+      "id": 43,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Black",
+      "colors": [
+        "Black"
+      ],
+      "brand": "Apple",
+      "price": "14 940 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+    },
+    {
+      "id": 44,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Black",
+      "colors": [
+        "Black"
+      ],
+      "brand": "Apple",
+      "price": "15 547 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+    },
+    {
+      "id": 45,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg"
+      ],
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Black",
+      "colors": [
+        "Black"
+      ],
+      "brand": "Apple",
+      "price": "13 904 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Plus - yuqori texnologiyali va nafis dizaynga ega flagman smartfon."
+    },
+    {
+      "id": 46,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+      ],
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Natural titanium",
+      "colors": [
+        "Natural titanium"
+      ],
+      "brand": "Apple",
+      "price": "24 611 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+    },
+    {
+      "id": 47,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+      ],
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Natural titanium",
+      "colors": [
+        "Natural titanium"
+      ],
+      "brand": "Apple",
+      "price": "22 752 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+    },
+    {
+      "id": 48,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+      ],
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "512 GB",
+      "color": "Natural titanium",
+      "colors": [
+        "Natural titanium"
+      ],
+      "brand": "Apple",
+      "price": "18 604 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+    },
+    {
+      "id": 49,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+      ],
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Black titanium",
+      "colors": [
+        "Black titanium"
+      ],
+      "brand": "Apple",
+      "price": "24 611 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+    },
+    {
+      "id": 50,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+      ],
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Black titanium",
+      "colors": [
+        "Black titanium"
+      ],
+      "brand": "Apple",
+      "price": "22 752 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+    },
+    {
+      "id": 51,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg"
+      ],
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "512 GB",
+      "color": "Black titanium",
+      "colors": [
+        "Black titanium"
+      ],
+      "brand": "Apple",
+      "price": "18 604 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 5,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Apple iPhone 15 Pro Max - yuqori sifatli titanium dizayn va ilg‘or imkoniyatlarga ega premium smartfon."
+    },
+    {
+      "id": 52,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
+      "gallery": [
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
+        "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg"
+      ],
+      "title": "Samsung Galaxy A05",
+      "rame": "4/64 GB",
+      "color": "Black",
+      "colors": [
+        "Black"
+      ],
+      "brand": "Samsung",
+      "price": "1 700 000",
+      "oldPrice": "",
+      "discount": 0,
+      "rating": 4,
+      "availability": "Omborda mavjud",
+      "deliveryTime": "14 ish kuni",
+      "description": "Samsung Galaxy A05 - o‘z sinfidagi arzon va ishonchli smartfon modeli."
+    }
+  ]
+}
