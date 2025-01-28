@@ -1,6 +1,11 @@
 {
   "users": [
-    
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$0rM8GHkUhfLOv0O25rTxPOduZdgfneDPtRelnUqnqkO5Y8fl.SeeS",
+      "username": "Admin",
+      "id": 1
+    }
   ],
   "banners": [
     {
